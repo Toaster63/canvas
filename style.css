@@ -1,0 +1,38 @@
+body{
+
+    background-image: url("colro\ pencil.jpg");
+    background-position: center;
+    background-size: cover;
+    text-align: center;
+}
+h1{
+    color: black;
+    font-size: 75px;
+
+    font-weight: 100000;
+    font-style: oblique;
+    border-style: dashed;
+    border-width: 5px;
+    border-color: blueviolet;
+    -webkit-text-stroke: 2px;
+    -webkit-text-stroke-color: blueviolet;
+    
+}
+
+#myCanvas{
+border-width: 10px;
+background-color: white;
+border-style: ridge;
+border-radius: 20px;
+border-color: blueviolet;
+
+
+}
+button{
+    background-color: blueviolet;
+    color: black;
+    border-radius: 10px;
+    border-width: 3px;
+    border-color: black;
+    size: 30px;
+}
